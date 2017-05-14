@@ -1,0 +1,11 @@
+{
+  "name": "stocksavvy",
+  "version": "1.0.0",
+  "description": "full-stack webapp for certificate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Oeth",
+  "license": "ISC"
+}
